@@ -43,12 +43,6 @@ This project performs **sentiment analysis on Hindi text** using a deep learning
 
 ## 🛠️ Installation
 
-### 🔧 Clone the repository
-
-```bash
-git clone https://github.com/yourusername/hindi-sentiment-analysis.git
-cd hindi-sentiment-analysis
-
 ## 📈 Model Info
 
 - **Model Type:** LSTM  
@@ -92,3 +86,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 **[Shivam Jaiswal]**  
 📧 Email: [shivamxz18@gmail.com]  
 🔗 GitHub: [https://github.com/shivam9621](https://github.com/shivam9621)
+
+
+### 🔧 Clone the repository
+
+```bash
+git clone https://github.com/yourusername/hindi-sentiment-analysis.git
+cd hindi-sentiment-analysis

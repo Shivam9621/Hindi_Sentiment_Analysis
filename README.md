@@ -1,4 +1,4 @@
-# 🇮🇳 Hindi Sentiment Analysis using Deep Learning
+# Hindi Sentiment Analysis using Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
@@ -18,7 +18,7 @@ This project performs **sentiment analysis on Hindi text** using a deep learning
 
 ## 📁 Project Contents
 
-- `Hindi_sentiment_analysis.ipynb` – Jupyter notebook for model training, evaluation, and saving artifacts.
+- `Hindi_sentiment_analysis.ipynb` – Colab notebook for model training, evaluation, and saving artifacts.
 - `my_model.h5` – Trained LSTM model file.
 - `tokenizer.pickle` – Tokenizer to convert Hindi text to sequences.
 - `label_encoder.pickle` – Encodes/decodes sentiment labels.
@@ -48,3 +48,4 @@ This project performs **sentiment analysis on Hindi text** using a deep learning
 ```bash
 git clone https://github.com/yourusername/hindi-sentiment-analysis.git
 cd hindi-sentiment-analysis
+

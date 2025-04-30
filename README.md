@@ -49,3 +49,46 @@ This project performs **sentiment analysis on Hindi text** using a deep learning
 git clone https://github.com/yourusername/hindi-sentiment-analysis.git
 cd hindi-sentiment-analysis
 
+## 📈 Model Info
+
+- **Model Type:** LSTM  
+- **Loss Function:** Categorical Crossentropy  
+- **Optimizer:** Adam  
+- **Training Data:** Hindi text with sentiment labels  
+- **Artifacts Saved:** Model (`.h5`), Tokenizer, Label Encoder  
+
+---
+
+## 📌 Future Improvements
+
+- Add support for sarcasm and mixed sentiment  
+- Improve model performance with larger corpus  
+- Add explainability with SHAP/LIME  
+- Deploy to Hugging Face or Streamlit Cloud  
+- Integrate REST API (Flask/FastAPI)  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo  
+2. Create a new branch (`git checkout -b feature/feature-name`)  
+3. Commit your changes (`git commit -am 'Add new feature'`)  
+4. Push to the branch (`git push origin feature/feature-name`)  
+5. Create a new Pull Request  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+**[Shivam Jaiswal]**  
+📧 Email: [shivamxz18@gmail.com]  
+🔗 GitHub: [https://github.com/shivam9621](https://github.com/shivam9621)

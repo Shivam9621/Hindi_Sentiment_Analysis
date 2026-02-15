@@ -1,7 +1,7 @@
-tensorflow>=2.8.0
+streamlit
+tensorflow==2.10.0
 numpy
 pandas
 scikit-learn
-streamlit
 matplotlib
 regex

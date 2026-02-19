@@ -9,10 +9,6 @@ This project performs **sentiment analysis on Hindi text** using a deep learning
 
 ---
 
-## 🚀 Live Demo
-
-🎥 [Watch Demo Video](https://your-demo-link.com)  
-🌐 [Try Web App (optional if hosted)](https://your-streamlit-link.com)
 
 ---
 
